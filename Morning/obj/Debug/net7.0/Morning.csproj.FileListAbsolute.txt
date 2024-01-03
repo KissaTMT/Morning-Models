@@ -1,0 +1,12 @@
+C:\Users\ethan\source\repos\Morning\Morning\bin\Debug\net7.0\Morning.deps.json
+C:\Users\ethan\source\repos\Morning\Morning\bin\Debug\net7.0\Morning.dll
+C:\Users\ethan\source\repos\Morning\Morning\bin\Debug\net7.0\Morning.pdb
+C:\Users\ethan\source\repos\Morning\Morning\obj\Debug\net7.0\Morning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\Morning\Morning\obj\Debug\net7.0\Morning.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Morning\Morning\obj\Debug\net7.0\Morning.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Morning\Morning\obj\Debug\net7.0\Morning.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Morning\Morning\obj\Debug\net7.0\Morning.dll
+C:\Users\ethan\source\repos\Morning\Morning\obj\Debug\net7.0\refint\Morning.dll
+C:\Users\ethan\source\repos\Morning\Morning\obj\Debug\net7.0\Morning.pdb
+C:\Users\ethan\source\repos\Morning\Morning\obj\Debug\net7.0\ref\Morning.dll
+C:\Users\ethan\source\repos\Morning\Morning\obj\Debug\net7.0\Morning.csproj.AssemblyReference.cache
