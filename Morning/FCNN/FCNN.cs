@@ -32,9 +32,9 @@ namespace Morning.FCNN
             for (var i = 1; i < neuronsOnLayers.Length; i++)
             {
                 Weights[i - 1] = CreateMatrix.Random<double>(neuronsOnLayers[i - 1], neuronsOnLayers[i]);
-                Biases[i - 1] = CreateVector.Random<double>(neuronsOnLayers[i]);
-                
-                _inputs[i-1] = CreateVector.Dense<double>(neuronsOnLayers[i]-1);
+                Biases[i - 1] = CreateVector.Dense<double>(neuronsOnLayers[i]);
+
+                _inputs[i - 1] = CreateVector.Dense<double>(neuronsOnLayers[i - 1]);
                 _outputs[i - 1] = CreateVector.Dense<double>(neuronsOnLayers[i]);
                 _activatedOutputs[i - 1] = CreateVector.Dense<double>(neuronsOnLayers[i]);
                 _deltas[i - 1] = CreateVector.Dense<double>(neuronsOnLayers[i]);
@@ -68,7 +68,7 @@ namespace Morning.FCNN
             return Predict(CreateVector.Dense(inputs)).AsArray();
         }
 
-        public double[] Learn(double[,] outputs, double[,] inputs, double errorThresholdValue, double learningRate, int epochNumber)
+        public double[] Train(double[,] outputs, double[,] inputs, double errorThresholdValue, double learningRate, int epochNumber)
         {
             var inputMatrix = CreateMatrix.DenseOfArray(inputs);
             var outputMatrix = CreateMatrix.DenseOfArray(outputs);
@@ -91,7 +91,7 @@ namespace Morning.FCNN
             return errors.ToArray();
         }
         
-        public double[] Learn(double[,] outputs, double[,] inputs, double learningRate, int epoch)
+        public double[] Train(double[,] outputs, double[,] inputs, double learningRate, int epoch)
         {
             var errors = new double[epoch];
             var inputMatrix = CreateMatrix.DenseOfArray(inputs);
