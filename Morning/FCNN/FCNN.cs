@@ -24,6 +24,7 @@ namespace Morning.FCNN
             Weights = new Matrix<double>[_layerCount];
             Biases = new Vector<double>[_layerCount];
 
+
             _inputs = new Vector<double>[_layerCount];
             _outputs = new Vector<double>[_layerCount];
             _activatedOutputs = new Vector<double>[_layerCount];
@@ -128,7 +129,7 @@ namespace Morning.FCNN
             _outputs[_layerCount - 1] = _inputs[_layerCount - 1] * Weights[_layerCount - 1] + Biases[_layerCount - 1];
             _activatedOutputs[_layerCount - 1] = _outputs[_layerCount - 1].PointwiseOperation(ActivationFunction.Activate);
 
-            return _activatedOutputs[_layerCount - 1];
+            return _outputs[_layerCount - 1];
         }
         private double Backpropagation(Vector<double> expected, double alpha)
         {

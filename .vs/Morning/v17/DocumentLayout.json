@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA90A93-FCA3-48D7-870A-DB948BDE4CDB}|Test\\Test.csproj|c:\\users\\ethan\\source\\repos\\morning-models\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA90A93-FCA3-48D7-870A-DB948BDE4CDB}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|c:\\users\\ethan\\source\\repos\\morning-models\\morning\\tlnn\\tlnnla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|solutionrelative:morning\\tlnn\\tlnnla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|c:\\users\\ethan\\source\\repos\\morning-models\\morning\\activationfunctions\\tanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|solutionrelative:morning\\activationfunctions\\tanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|c:\\users\\ethan\\source\\repos\\morning-models\\morning\\activationfunctions\\relu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|solutionrelative:morning\\activationfunctions\\relu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|c:\\users\\ethan\\source\\repos\\morning-models\\morning\\activationfunctions\\iactivationfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|solutionrelative:morning\\activationfunctions\\iactivationfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|c:\\users\\ethan\\source\\repos\\morning-models\\morning\\activationfunctions\\sigmoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05F0E851-8109-4C34-9BDB-58EAB94BBDFF}|Morning\\Morning.csproj|solutionrelative:morning\\activationfunctions\\sigmoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tanh.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\ActivationFunctions\\Tanh.cs",
+              "RelativeDocumentMoniker": "Morning\\ActivationFunctions\\Tanh.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\ActivationFunctions\\Tanh.cs",
+              "RelativeToolTip": "Morning\\ActivationFunctions\\Tanh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:52:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Relu.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\ActivationFunctions\\Relu.cs",
+              "RelativeDocumentMoniker": "Morning\\ActivationFunctions\\Relu.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\ActivationFunctions\\Relu.cs",
+              "RelativeToolTip": "Morning\\ActivationFunctions\\Relu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:52:28.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IActivationFunction.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\ActivationFunctions\\IActivationFunction.cs",
+              "RelativeDocumentMoniker": "Morning\\ActivationFunctions\\IActivationFunction.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\ActivationFunctions\\IActivationFunction.cs",
+              "RelativeToolTip": "Morning\\ActivationFunctions\\IActivationFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:52:27.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sigmoid.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\ActivationFunctions\\Sigmoid.cs",
+              "RelativeDocumentMoniker": "Morning\\ActivationFunctions\\Sigmoid.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\ActivationFunctions\\Sigmoid.cs",
+              "RelativeToolTip": "Morning\\ActivationFunctions\\Sigmoid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:04:34.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TLNNLA.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\TLNN\\TLNNLA.cs",
+              "RelativeDocumentMoniker": "Morning\\TLNN\\TLNNLA.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Morning\\TLNN\\TLNNLA.cs",
+              "RelativeToolTip": "Morning\\TLNN\\TLNNLA.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwFYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:17:53.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\Morning-Models\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:00:51.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
